@@ -3,7 +3,7 @@
 ## 💫 About Me:
 - 🏫 Communiciation and Electronics Engineering student at Alexandria University
 - 💻 Front-End Developer with React
-- ⌨️ Typing Speed of 91 WPM on → [TYPERACER](https://data.typeracer.com/pit/profile?user=zeddy_forreal)
+- ⌨️ Megaracer with Typing Speed of 91 WPM on → [TYPERACER](https://data.typeracer.com/pit/profile?user=zeddy_forreal)
 - 📂 You can visit my portfolio here → [PORTFOLIO](https://www.instagram.com/zeddy.forreal/)
 
 
