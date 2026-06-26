@@ -6,16 +6,21 @@
 
 <br/>
 
-### `$ who am I`
+### `$ whoami`
 
-```
+```txt
+› Building modern web experiences that are clean, responsive, and enjoyable to use.
+› Started with HTML, CSS, and JavaScript, building everything from scratch before moving into React.
+› Enjoy turning ideas into real products—from e-commerce storefronts and portfolio websites to tools I genuinely use.
+› Focused on clean code, smooth animations, thoughtful interactions, and responsive design.
+› Always learning, always building, always shipping.
 
-> Zeddy
-> Communication & Electronics Engineering student — Alexandria University
-> Frontend Developer, React
-> 91 WPM on TypeRacer
-> status: probably debugging something at 2am, coffee in hand
-
+› Zeddy
+› Communication & Electronics Engineering Student — Alexandria University
+› Frontend Developer (React)
+› Currently learning full-stack development
+› 91 WPM on TypeRacer
+› Status: probably debugging something at 2 AM with coffee ☕
 ```
 
 <br/>
