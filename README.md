@@ -86,7 +86,7 @@
 
 <br/>
 
-<div align="start">
+<div align="center">
 
 `while (alive) { build(); learn(); sip(☕); }`
 
