@@ -22,7 +22,7 @@
 
 ### `$ ls socials/`
 
-<div align="center">
+<div align="start">
 
 [![Instagram](https://img.shields.io/badge/Instagram-080808.svg?style=for-the-badge&logo=instagram&logoColor=FFC557)](https://instagram.com/zeddy.forreal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-080808.svg?style=for-the-badge&logo=linkedin&logoColor=FFC557)](https://linkedin.com/in/zeddy-forreal)
@@ -34,7 +34,7 @@
 
 ### `$ open portfolio/`
 
-<div align="center">
+<div align="start">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-080808.svg?style=for-the-badge&logo=vercel&logoColor=FFC557)](https://zeddy-portfolio.vercel.app)
 
@@ -44,7 +44,7 @@
 
 ### `$ cat stack.json`
 
-<div align="center">
+<div align="start">
 
 `// languages`
 <br/>
@@ -77,7 +77,7 @@
 
 ### `$ ./stats.sh --verbose`
 
-<div align="center">
+<div align="start">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeddy-Forreal&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=080808&title_color=FFC557&text_color=888888&icon_color=FFC557)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeddy-Forreal&layout=compact&hide_border=true&bg_color=080808&title_color=FFC557&text_color=888888)
@@ -86,7 +86,7 @@
 
 <br/>
 
-<div align="center">
+<div align="start">
 
 `while (alive) { build(); learn(); sip(☕); }`
 
