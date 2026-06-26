@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-080808.svg?style=for-the-badge&logo=vercel&logoColor=FFC557)](https://portfolio-seven-ruddy-i3k0fv928h.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-080808.svg?style=for-the-badge&logo=vercel&logoColor=FFC557)](https://zeddy-portfolio.vercel.app)
 
 </div>
 
