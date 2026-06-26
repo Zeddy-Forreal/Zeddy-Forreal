@@ -72,20 +72,6 @@
 
 <br/>
 
-
-<br/>
-
-### `$ ./stats.sh --verbose`
-
-<div align="start">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeddy-Forreal&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=080808&title_color=FFC557&text_color=888888&icon_color=FFC557)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeddy-Forreal&layout=compact&hide_border=true&bg_color=080808&title_color=FFC557&text_color=888888)
-
-</div>
-
-<br/>
-
 <div align="center">
 
 `while (alive) { build(); learn(); sip(☕); }`
